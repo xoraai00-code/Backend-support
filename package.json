@@ -1,0 +1,16 @@
+{
+  "name": "base44-backend-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Simple Node.js backend generator like Base44",
+  "main": "backendGenerator.js",
+  "scripts": {
+    "start": "node backendGenerator.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "body-parser": "^1.20.2"
+  }
+}
