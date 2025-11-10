@@ -1,0 +1,5 @@
+base44-backend-generator/
+├── backendGenerator.js
+├── package.json
+├── README.md
+└── .gitignore
